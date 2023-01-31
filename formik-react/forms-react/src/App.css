@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  
+}
+
+.App.dark{
+  background-color: black;
+  color: white;
+}
+
+.App.light{
+  background-color: white;
+  color: black;
+}
+
+label {
+  display: block;
+  color: red;
+}
+
+.error{
+  color: red;
+}
